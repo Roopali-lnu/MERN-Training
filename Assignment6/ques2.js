@@ -1,6 +1,7 @@
 /*Write a function mapArray(arr, callback) that takes an integer array arr 
 and a callback function callback. The function should apply the callback to 
 each element of the array and return a new array which has the cube of each element.
+2
 */
 
 function mapArray(arr, callback) {

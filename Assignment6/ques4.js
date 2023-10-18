@@ -2,7 +2,7 @@
 
 /*A callback function is a function that is passed as an argument to another function,
  to be “called back” at a later time. A function that accepts other functions as arguments 
- is called a higher-order function, which contains the logic for when the callback function gets executed*/
+ is called a higher-order function, which contains the logic for when the callback function gets executed 4*/
 
  //eg 
  function serverRequest(query, callback){

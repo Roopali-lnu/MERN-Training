@@ -13,4 +13,5 @@ a(b);
 a called
 b called
 I am a setTimeout func
+.
 */

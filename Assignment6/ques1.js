@@ -1,6 +1,7 @@
 /*Write a function filterArray(arr, callback) that takes an integer array arr 
 and a callback function callback. The function should filter the array based on the callback's
  criteria (all numbers that are divisible by 8)and return a new array with the filtered elements.
+ 1
 */
 
 function filterArray(arr, callback) {
